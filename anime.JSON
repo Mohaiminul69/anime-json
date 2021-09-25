@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "key": "1",
+    "img": "./img./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  },
+  {
+    "name": "Naruto",
+    "universe": "Dragon Ball Z",
+    "key": "2",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  },
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "key": "3",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  },
+  {
+    "name": "Goku",
+    "universe": "Dragon Ball Z",
+    "key": "4",
+    "img": "./goku.png",
+    "powerLevel": 3000000,
+    "points": 90000
+  }
+]
